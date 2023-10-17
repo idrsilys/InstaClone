@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "4e2581b9a08fc15419d26097bfad39040fc8b416146f7ae528a15cd2d0e93118"
+build_start_time: [1694035591, 942325000]
+build_end_time: [1694035591, 993886000]
+inputs:
+  "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/InstaCloneFirebase/AppDelegate.swift": !private [1693852739, 47798194]
+  "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/InstaCloneFirebase/FeedViewController.swift": !private [1693854143, 449206115]
+  "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/InstaCloneFirebase/SceneDelegate.swift": !private [1693864025, 836966063]
+  "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/InstaCloneFirebase/SettingsViewController.swift": !private [1693864584, 408945478]
+  "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/InstaCloneFirebase/UploadViewController.swift": !private [1694026330, 638570772]
+  "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/InstaCloneFirebase/ViewController.swift": !private [1693864025, 854218476]

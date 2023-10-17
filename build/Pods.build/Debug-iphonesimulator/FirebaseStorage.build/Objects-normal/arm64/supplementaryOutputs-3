@@ -1,0 +1,15 @@
+"/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageError.swift":
+  swift-dependencies: "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageError.swiftdeps"
+  dependencies: "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageError.d"
+  object: "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageError.o"
+  diagnostics: "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageError.dia"
+"/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageDownloadTask.swift":
+  diagnostics: "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageDownloadTask.dia"
+  swift-dependencies: "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageDownloadTask.swiftdeps"
+  object: "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageDownloadTask.o"
+  dependencies: "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageDownloadTask.d"
+"/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageGetDownloadURLTask.swift":
+  swift-dependencies: "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageGetDownloadURLTask.swiftdeps"
+  object: "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageGetDownloadURLTask.o"
+  dependencies: "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageGetDownloadURLTask.d"
+  diagnostics: "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageGetDownloadURLTask.dia"

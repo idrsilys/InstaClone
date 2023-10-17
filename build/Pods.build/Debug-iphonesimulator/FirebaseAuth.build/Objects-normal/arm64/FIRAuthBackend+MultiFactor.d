@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/build/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/module.modulemap \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthBackend+MultiFactor.m \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthBackend+MultiFactor.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthBackend.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRPCRequest.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRPCResponse.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/Enroll/FIRFinalizeMFAEnrollmentRequest.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRIdentityToolkitRequest.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRequestConfiguration.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAppCheck/Interop/FIRAppCheckInterop.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuth.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthAPNSTokenType.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthErrors.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/Phone/FIRAuthProtoFinalizeMFAPhoneRequestInfo.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/FIRAuthProto.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/TOTP/FIRAuthProtoFinalizeMFATOTPEnrollmentRequestInfo.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/Enroll/FIRFinalizeMFAEnrollmentResponse.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/Phone/FIRAuthProtoFinalizeMFAPhoneResponseInfo.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/TOTP/FIRAuthProtoFinalizeMFATOTPEnrollmentResponseInfo.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/Enroll/FIRStartMFAEnrollmentRequest.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/Phone/FIRAuthProtoStartMFAPhoneRequestInfo.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/SystemService/FIRAuthAppCredential.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/TOTP/FIRAuthProtoStartMFATOTPEnrollmentRequestInfo.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/Enroll/FIRStartMFAEnrollmentResponse.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/Phone/FIRAuthProtoStartMFAPhoneResponseInfo.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/TOTP/FIRAuthProtoStartMFATOTPEnrollmentResponseInfo.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/SignIn/FIRFinalizeMFASignInRequest.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/TOTP/FIRAuthProtoFinalizeMFATOTPSignInRequestInfo.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/SignIn/FIRFinalizeMFASignInResponse.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/SignIn/FIRStartMFASignInRequest.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/SignIn/FIRStartMFASignInResponse.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/Unenroll/FIRWithdrawMFARequest.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/Unenroll/FIRWithdrawMFAResponse.h

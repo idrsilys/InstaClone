@@ -1,0 +1,15 @@
+"/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageReference.swift":
+  object: "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageReference.o"
+  diagnostics: "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageReference.dia"
+  dependencies: "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageReference.d"
+  swift-dependencies: "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageReference.swiftdeps"
+"/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageTask.swift":
+  diagnostics: "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageTask.dia"
+  swift-dependencies: "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageTask.swiftdeps"
+  dependencies: "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageTask.d"
+  object: "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageTask.o"
+"/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageTaskSnapshot.swift":
+  swift-dependencies: "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageTaskSnapshot.swiftdeps"
+  dependencies: "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageTaskSnapshot.d"
+  diagnostics: "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageTaskSnapshot.dia"
+  object: "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/build/Pods.build/Debug-iphonesimulator/FirebaseStorage.build/Objects-normal/arm64/StorageTaskSnapshot.o"

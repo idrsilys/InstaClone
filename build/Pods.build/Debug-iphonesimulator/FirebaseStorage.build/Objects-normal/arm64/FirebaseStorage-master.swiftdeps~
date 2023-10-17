@@ -1,0 +1,32 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "58cffbc285bb3329359be67644268373955676d0c565c7edffd1c5e666bee49f"
+build_start_time: [1694035849, 37486000]
+build_end_time: [1694035849, 70847000]
+inputs:
+  "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseStorage/FirebaseStorage/Sources/AsyncAwait.swift": !private [1694035600, 170438981]
+  "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageDeleteTask.swift": !private [1694035600, 169107472]
+  ? "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageGetDownloadURLTask.swift"
+  : !private [1694035600, 169389724]
+  ? "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageGetMetadataTask.swift"
+  : !private [1694035600, 170090645]
+  "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageListTask.swift": !private [1694035600, 170236146]
+  "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StoragePath.swift": !private [1694035600, 169252681]
+  "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageTaskState.swift": !private [1694035600, 169807018]
+  ? "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageTokenAuthorizer.swift"
+  : !private [1694035600, 169950519]
+  ? "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageUpdateMetadataTask.swift"
+  : !private [1694035600, 169673017]
+  "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseStorage/FirebaseStorage/Sources/Internal/StorageUtils.swift": !private [1694035600, 169528808]
+  "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseStorage/FirebaseStorage/Sources/Result.swift": !private [1694035600, 168868054]
+  "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseStorage/FirebaseStorage/Sources/Storage.swift": !private [1694035600, 167687546]
+  "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageComponent.swift": !private [1694035600, 168400134]
+  "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageConstants.swift": !private [1694035600, 171027818]
+  "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageDownloadTask.swift": !private [1694035600, 168125007]
+  "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageError.swift": !private [1694035600, 171434404]
+  "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageListResult.swift": !private [1694035600, 168258383]
+  "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageMetadata.swift": !private [1694035600, 170901026]
+  "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageObservableTask.swift": !private [1694035600, 167983840]
+  "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageReference.swift": !private [1694035600, 171285028]
+  "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageTask.swift": !private [1694035600, 168630969]
+  "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageTaskSnapshot.swift": !private [1694035600, 167833922]
+  "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseStorage/FirebaseStorage/Sources/StorageUploadTask.swift": !private [1694035600, 170747733]

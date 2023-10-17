@@ -1,0 +1,56 @@
+dependencies: \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/build/Pods.build/Debug-iphonesimulator/FirebaseInstallations.build/module.modulemap \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/IIDMigration/FIRInstallationsIIDTokenStore.m \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/IIDMigration/FIRInstallationsIIDTokenStore.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromises.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/build/Pods.build/Debug-iphonesimulator/PromisesObjC.build/module.modulemap \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/Target\ Support\ Files/PromisesObjC/PromisesObjC-umbrella.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+All.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromiseError.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Always.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Any.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Async.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Await.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Catch.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Delay.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Do.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Race.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Recover.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Reduce.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Retry.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Testing.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Then.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Timeout.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Validate.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/PromisesObjC/Sources/FBLPromises/include/FBLPromise+Wrap.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/build/Pods.build/Debug-iphonesimulator/GoogleUtilities.build/module.modulemap \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/Target\ Support\ Files/GoogleUtilities/GoogleUtilities-umbrella.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler/Public/GoogleUtilities/GULAppDelegateSwizzler.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler/Public/GoogleUtilities/GULApplication.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/GoogleUtilities/GoogleUtilities/AppDelegateSwizzler/Public/GoogleUtilities/GULSceneDelegateSwizzler.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULAppEnvironmentUtil.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorable.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorage.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULHeartbeatDateStorageUserDefaults.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULKeychainStorage.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULKeychainUtils.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULNetworkInfo.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULSecureCoding.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/GULURLSessionDataResponse.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/GoogleUtilities/GoogleUtilities/Environment/Public/GoogleUtilities/NSURLSession+GULPromises.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/GoogleUtilities/GoogleUtilities/Logger/Public/GoogleUtilities/GULLogger.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/GoogleUtilities/GoogleUtilities/Logger/Public/GoogleUtilities/GULLoggerLevel.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/GoogleUtilities/GoogleUtilities/MethodSwizzler/Public/GoogleUtilities/GULOriginalIMPConvenienceMacros.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/GoogleUtilities/GoogleUtilities/MethodSwizzler/Public/GoogleUtilities/GULSwizzler.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/GoogleUtilities/GoogleUtilities/NSData+zlib/Public/GoogleUtilities/GULNSData+zlib.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULMutableDictionary.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetwork.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetworkConstants.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetworkLoggerProtocol.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetworkMessageCode.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/GoogleUtilities/GoogleUtilities/Network/Public/GoogleUtilities/GULNetworkURLSession.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/GoogleUtilities/GoogleUtilities/Reachability/Public/GoogleUtilities/GULReachabilityChecker.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/GoogleUtilities/GoogleUtilities/UserDefaults/Public/GoogleUtilities/GULUserDefaults.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Errors/FIRInstallationsErrorUtil.h \
+  /Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseInstallations/FirebaseInstallations/Source/Library/Public/FirebaseInstallations/FIRInstallationsErrors.h

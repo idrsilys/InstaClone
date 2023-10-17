@@ -1,0 +1,29 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "78b50b4a720721f3dd4b1b82223b97bba3e108e06794e41b91031870aeec2cd8"
+build_start_time: [1694035848, 480183000]
+build_end_time: [1694035848, 511583000]
+inputs:
+  ? "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
+  : !private [1694035600, 29688672]
+  ? "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : !private [1694035600, 30718303]
+  ? "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatLoggingTestUtils.swift"
+  : !private [1694035600, 31149181]
+  ? "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : !private [1694035600, 31467058]
+  ? "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : !private [1694035600, 31636393]
+  ? "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : !private [1694035600, 31950812]
+  ? "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : !private [1694035600, 29910840]
+  ? "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift"
+  : !private [1694035600, 29494129]
+  ? "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : !private [1694035600, 32102729]
+  ? "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : !private [1694035600, 31786061]
+  ? "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : !private [1694035600, 30417468]
+  ? "/Users/edrisilyas/Desktop/tuval/InstaCloneFirebase/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : !private [1694035600, 30873596]
